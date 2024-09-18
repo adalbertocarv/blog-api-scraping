@@ -45,6 +45,45 @@ $ npm run start:dev
 $ npm run start:prod
 ```
 
+Instalação Nest JS:
+
+```bash
+npm i -g @nestjs/cli
+```
+
+Dependências essenciais:
+
+1. **@nestjs/common**:
+    
+    ```bash
+    npm install @nestjs/common
+    ```
+    
+2. **@nestjs/core**:
+    
+    ```bash
+    npm install @nestjs/core
+    ```
+    
+3. **@nestjs/typeorm**:
+    
+    ```bash
+    npm install @nestjs/typeorm
+    ```
+    
+4. **typeorm**:
+    
+    ```bash
+    npm install typeorm
+    ```
+    
+5. **@nestjs/axios**:
+    
+    ```bash
+    npm install @nestjs/axios
+    ```
+    
+
 ## Test
 
 ```bash
